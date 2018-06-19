@@ -1,11 +1,11 @@
 <? xml version="1.0" ?>
 <rss version="2.0">
 <channel>
-<title>Autobots</title>
+<title>(Autobots)</title>
 <description></description>
 <link>http://www.yourweb.com</link>
 <item>
-<title>******Stats***** </title>
+<title>**Version 3.5**</title>
 <description> Enjoy </description>
 <link>http://www.yourweb.com</link>
 </channel>
